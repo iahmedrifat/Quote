@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #2e4053;
+}
+
+.center-box {
+  font-family: "EB Garamond", serif;
+  font-weight: 500;
+  display: flex;
+  width: 550px;
+  margin: 20px;
+  align-items: center;
+  background-color: #d0d3d4;
+  border: 1px solid #d0d3d4;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+.img {
+  margin-right: 19px;
+  margin-left: 19px;
+  height: 30px;
+  width: 30px;
+}
+.para {
+  text-align: left;
+}
